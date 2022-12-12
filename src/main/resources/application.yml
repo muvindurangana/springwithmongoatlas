@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://admin:admin@coolkoala.oflwqac.mongodb.net/?retryWrites=true&w=majority
+      database : Task
+      host: hostIpOnWhichMongoIsRunning
+      port : 27017
